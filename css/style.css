@@ -119,6 +119,7 @@ hr {
 	padding: 20px 25px;
 	margin: 0;
 	font-size: 16px;
+	font-weight:bold;
 	border-radius: 10px;
 	margin-top: 20px;
 	transition: all 0.3s;
